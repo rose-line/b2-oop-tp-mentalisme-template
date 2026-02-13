@@ -1,5 +1,5 @@
 
-# TP Mentalisme – Encodage Verbal
+# TP Mentalisme
 
 ## Introduction
 
@@ -24,6 +24,7 @@ Vous devez modéliser les classes suivantes :
 Chaque classe doit avoir des attributs privés et des méthodes adaptées à son rôle. Privilégiez l'encapsulation, ne créez des getters/setters que si nécessaire. Les constructeurs doivent permettre d'initialiser les objets selon le déroulement du tour.
 
 Pour la classe `Spectateur`, prévoyez deux constructeurs :
+
 - Un constructeur non paramétré qui demande à l'utilisateur de choisir une carte via le terminal.
 - Un constructeur paramétré (valeur et couleur reçues en paramètres).
 
@@ -31,7 +32,7 @@ Vous testerez les deux constructeurs dans votre code client.
 
 ## Tableaux de correspondance
 
-Pour encoder la carte, l'assistant utilise les tableaux suivants :
+Pour encoder la carte, l'assistant utilise les tableaux suivants (vous pouvez le modifier si vous le souhaitez) :
 
 **Rang**
 
